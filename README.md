@@ -17,6 +17,6 @@ You need to create 2 files. Namely `autoconfig.js` in `defaults/pref` folder and
 ## 2. Create autoconfig.js file
 Then copy the code below
 
-`pref("general.config.filename", "librewolf.cfg");
-pref("general.config.obscure_value", 0);`
+<pre>pref("general.config.filename", "librewolf.cfg");
+pref("general.config.obscure_value", 0);</pre>
 
