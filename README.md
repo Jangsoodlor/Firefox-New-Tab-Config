@@ -1,8 +1,7 @@
-# Firefox Startpage Config
- Set Firefox Default Startpage without additional 
- Here's How
+# IMPORTANT
+I've tested this method **only on Windows.** It works on both Firefox and LibreWolf. For other OSes, please refer to [This Page](https://support.mozilla.org/en-US/kb/customizing-firefox-using-autoconfig).
 
-### Source
+### Sources
 [This reddit thread's top comment](https://old.reddit.com/r/FirefoxCSS/comments/gowbcb/how_to_set_a_custom_startpage_as_new_tab_page/). Which leads to [Another thread](https://old.reddit.com/r/firefox/comments/ge86z4/newtab_page_to_local_file_firefox_76_redux/) and [Firefox Support page](https://support.mozilla.org/en-US/kb/customizing-firefox-using-autoconfig)
 
 Without further ado, let's begin.
