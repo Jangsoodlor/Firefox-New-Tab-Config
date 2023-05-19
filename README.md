@@ -54,8 +54,14 @@ Please note that you must use **FORWARD SLASH** for your html file's directory.
 
 the new tab page will change after restarting firefox
 
+## Results
+<img src = "https://cdn.discordapp.com/attachments/1017082861280571504/1109138816335360000/2023-05-19-222140-pn.png">
+please note that you'll need to find/make a startpage yourself
+
 ## BUT WAIT I STILL SEE THE SAME START PAGE AFTER I RESTART FIREFOX HOW
 Try open a new tab page. If it's the page you set in the config file, then CONGRATS. You have sucessfully changed your startpage. All you need to do is to **[CHANGE YOUR HOMEPAGE](https://support.mozilla.org/en-US/kb/how-to-set-the-home-page)**. If not, there's something wrong in the procedure.
+
+
 
 
 
